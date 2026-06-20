@@ -40,3 +40,9 @@ Auto-Exit: The application will close itself naturally after all defined mode du
 Disclaimer
 
 This project is intended strictly for entertainment, educational, scientific, and creative digital arts purposes. It acts purely as a temporary overlay simulation interface—it does not alter or modify underlying system files, intercept permanent registry data, or generate network traffic. It is completely safe to run in standard sandbox environments.
+
+### Security Policy
+
+This project is a safe, educational visual simulation designed for entertainment purposes only. It is provided as-is, without any warranty, support, or maintenance.
+
+The maintainer assumes absolutely no responsibility or liability for any damages, losses, or system instability caused by the misuse or execution of this code. No contact method or support channels are available for this repository.
